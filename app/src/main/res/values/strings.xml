@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyProject1</string>
+    <string name="onCreate" translatable="false">onCreate</string>
+    <string name="onStart" translatable="false">onStart</string>
+    <string name="onResume" translatable="false">onResume</string>
+    <string name="onRestart" translatable="false">onRestart</string>
+    <string name="button">button</string>
+    <string name="close">close</string>
+    <string name="oncreate_calls">Вызовов метода onCreate() :</string>
+    <string name="onstart_calls">Вызовов метода onStart() :</string>
+    <string name="onresume_calls">Вызовов метода onResume() :</string>
+    <string name="onrestart_calls">Вызовов метода onRestart() :</string>
+
+</resources>

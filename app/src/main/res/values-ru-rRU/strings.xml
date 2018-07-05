@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyProject1</string>
+    <string name="button">Моя кнопка</string>
+    <string name="oncreate_calls">\"Вызовов onCreate() :\"</string>
+    <string name="onstart_calls">\"Вызовов onStart() \"</string>
+    <string name="onresume_calls">\"Вызовов onResume() :\"</string>
+    <string name="onrestart_calls">\"Вызовов onRestart() :\"</string>
+</resources>
